@@ -1,7 +1,7 @@
 /*
 COVID Data Exploration 
 Skills used: 
-JOIN, CTE's, Temp Tables, Functions (Windows, Aggregate), Views
+JOIN, CTE's, Temp Tables, Window Function, Aggregate Function, Views
 */
 
 SELECT *
